@@ -375,7 +375,7 @@ section { padding: 48px 0 0; }
 
 .pub-title {
   font-family: var(--sans-en);
-  font-size: 17px;
+  font-size: 15px;
   font-weight: 600;
   line-height: 1.4;
   color: var(--accent);
